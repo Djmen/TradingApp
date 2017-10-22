@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CSV",
+        "repositoryURL": "https://github.com/yaslab/CSV.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "a2a9e3f6e69e76dc3cbef727205ea9a7ef703ec7",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "SwiftTinyEvents",
+        "repositoryURL": "https://github.com/Djmen/SwiftTinyEvents.git",
+        "state": {
+          "branch": null,
+          "revision": "de91836a6ac5d17c83dc70f7b75099d39e87e033",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
